@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "C:\Users\gabriel37332\ProjectsUnity\MRTK_Teste_0.1\_Builds0.2\Il2CppOutputProject\IL2CPP\libil2cpp\gc\BoehmGC.cpp"
+#include "C:\Users\gabriel37332\ProjectsUnity\MRTK_Teste_0.1\_Builds0.2\Il2CppOutputProject\IL2CPP\libil2cpp\gc\GCHandle.cpp"
+#include "C:\Users\gabriel37332\ProjectsUnity\MRTK_Teste_0.1\_Builds0.2\Il2CppOutputProject\IL2CPP\libil2cpp\gc\GarbageCollector.cpp"
+#include "C:\Users\gabriel37332\ProjectsUnity\MRTK_Teste_0.1\_Builds0.2\Il2CppOutputProject\IL2CPP\libil2cpp\gc\NullGC.cpp"
+#include "C:\Users\gabriel37332\ProjectsUnity\MRTK_Teste_0.1\_Builds0.2\Il2CppOutputProject\IL2CPP\libil2cpp\gc\WriteBarrier.cpp"
+#include "C:\Users\gabriel37332\ProjectsUnity\MRTK_Teste_0.1\_Builds0.2\Il2CppOutputProject\IL2CPP\libil2cpp\gc\WriteBarrierValidation.cpp"
